@@ -1,0 +1,5 @@
+uri,label
+/api/commerce/storefront/locations/06300?includeAttributeDefinition=false&responseFields=attributes,get location
+/api/commerce/catalog/storefront/products/7400740?responseFields=content/productImages,get product
+/api/platform/entitylists/acestoreskuoverride@AceH/entities?pageSize=50&startIndex=&filter=id%20eq%2017532-7001746&sortBy=&responseFields=,get entities
+/api/commerce/catalog/storefront/products/?&pageSize=15&allowInactive=false&filter=productCode%20eq%207007093%20or%20productCode%20eq%207011416,get products
